@@ -8,4 +8,4 @@ It is a sample project to present my Portfolio. Here the project simply using mo
 
 
 You can see output at
-https://Mythili-DiveIn.github.io/intro-react
+https://Mythili-DiveIn.github.io/portfolio_website

@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Basic Task Tracker',
     description: "It is an experimental project to present different cases in react and API interaction with the APP,with additional dependecies as Bootstrap etc. ",
-      image: '/images/proj1.png',
+      image: './images/proj1.png',
       tags: [ 'React', 'Bootstrap'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"It is an experimental project of a fully functional eCommerce application to present advanced React App,with additional dependecies as Material-UI,Commerce.js etc.",
-    image: '/images/proj2.png',
+    image: './images/proj2.png',
     tags: ['React', 'JavaScript','Material-UI','Commerce.js'],
     source: 'https://google.com',
     visit: 'https://google.com',

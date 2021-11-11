@@ -10,7 +10,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To < br/>
-        My Personal Portfolio
+        My Portfolio
       </SectionTitle>
       <SectionText>
       The purpose of this  Portfolio is to  showcase my designing and  development skills.
